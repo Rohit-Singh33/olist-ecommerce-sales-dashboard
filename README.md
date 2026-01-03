@@ -40,9 +40,9 @@ Top customer cities account for a major share of total orders, showing strong re
 Higher payment value does not always mean higher profit, highlighting the impact of discounts, logistics, and operational costs.
 
 ## Details of the Uploads
-**Data_Set.zip** = Raw dataset files used for analysis
+**Data_Set.zip** = Uncleand Raw dataset files used for analysis
 
-**Merged Table.csv** = Cleaned and merged master table created using SQL
+**Merged Table.csv** = Cleaned and merged master table 
 
 **Olist_Excel_Dashboard.xlsx** = Sales analysis and dashboard created in Excel
 
