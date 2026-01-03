@@ -16,13 +16,6 @@ Tableau - Dashboard Creation
 
 Excel – Initial analysis and dashboard 
 
-## Data Process
-
-Received multiple raw tables
-
-Cleaned and merged data using SQL
-Created a master table
-Built dashboards for insights
 
 ## Key Insights
 
@@ -64,6 +57,10 @@ Higher payment value does not always mean higher profit, highlighting the impact
 **PROJECT_BOOTCAMP.pptx** = Bootcamp presentation explaining project workflow
 
 **README.md** = Project documentation and explanation
+
+## Relationship Between Tables 
+
+<img width="2486" height="1496" alt="Joins" src="https://github.com/user-attachments/assets/856781f3-72cf-4f17-a603-3795759b52b4" />
 
 
 **Rohit Singh**
